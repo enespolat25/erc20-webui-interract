@@ -1,4 +1,4 @@
 # erc20-webui-interract
 ERC-20 TOKEN INTERRACT
 
-![](./image.jpeg)
+![](./image.jpg)
